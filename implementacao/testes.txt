@@ -1,0 +1,477 @@
+############################################################################################################################
+Iterated Local Search : 5000 iterations, 20 neighborhood size, 15 no-improvement threshold, -1 max-no-improvement-iterations
+############################################################################################################################
+INSTÂNCIA : ep01.dat
+------------------------------------------------
+Best solution value : 2130
+Average solution value : 2124
+Average time : 5min and 40 seconds
+------------------------------------------------
+test1:
+
+Initial solution value : 669
+Final solution value : 2130
+Total weight: 1800
+Status : Max iterations reached
+Time taken: 5 minutes and 45 seconds.
+
+test2:
+Initial solution value : 669
+Final solution value : 2120
+Status : Max iterations reached
+Time taken: 5 minutes and 42 seconds.
+
+test3:
+Initial solution value : 669
+Final solution value : 2120
+Status : Max iterations reached
+Time taken: 5 minutes and 44 seconds.
+
+test4:
+Initial solution value : 669
+Final solution value : 2130
+Status : Max iterations reached
+Time taken: 5 minutes and 39 seconds.
+
+test5:
+Initial solution value : 669
+Final solution value : 2120
+Status : Max iterations reached
+Time taken: 5 minutes and 32 seconds.
+
+
+###############################################################################################
+INSTÂNCIA : ep02.dat
+------------------------------------------------
+Best solution value : 1391
+Average solution value : 1338.8
+Average time : 5min and 42 seconds
+------------------------------------------------
+
+test1:
+Initial solution value : 267
+Final solution value : 1391
+Total weight: 1349
+Status : Max iterations reached
+Time taken: 5 minutes and 49 seconds.
+
+test2:
+Initial solution value : 267
+Final solution value : 1308
+Total weight: 1158
+Status : Max iterations reached
+Time taken: 5 minutes and 39 seconds.
+
+test3:
+Initial solution value : 267
+Final solution value : 1301
+Total weight: 1151
+Status : Max iterations reached
+Time taken: 5 minutes and 32 seconds.
+
+test4:
+Initial solution value : 267
+Final solution value : 1303
+Total weight: 1153
+Status : Max iterations reached
+Time taken: 5 minutes and 42 seconds.
+
+test5:
+Initial solution value : 267
+Final solution value : 1391
+Total weight: 1349
+Status : Max iterations reached
+Time taken: 5 minutes and 50 seconds.
+
+###############################################################################################
+INSTÂNCIA : ep03.dat
+------------------------------------------------
+Best solution value : 2860
+Average solution value : 2854
+Average time : 21min and 55 seconds
+------------------------------------------------
+
+test1:
+Initial solution value : 1944
+Final solution value : 2850 
+Total weight: 2000
+Status : Max iterations reached
+Time taken: 22 minutes and 51 seconds.
+
+test2:
+Initial solution value : 1944
+Final solution value : 2850 
+Total weight: 2000
+Status : Max iterations reached
+Time taken: 23 minutes and 17 seconds.
+
+test3:
+Initial solution value : 1944
+Final solution value : 2850 
+Total weight: 2000
+Status : Max iterations reached
+Time taken: 20 minutes and 32 seconds.
+
+test4:
+Initial solution value : 1944
+Final solution value : 2860 
+Total weight: 2000
+Status : Max iterations reached
+Time taken: 22 minutes and 36 seconds.
+
+test5:
+Initial solution value : 1944
+Final solution value : 2860 
+Total weight: 2000
+Status : Max iterations reached
+Time taken: 20 minutes and 21 seconds.
+
+
+###############################################################################################
+INSTÂNCIA : ep04.dat
+------------------------------------------------
+Best solution value : 2730
+Average solution value : 2722
+Average time : 20min and 24 seconds
+------------------------------------------------
+test1:
+
+Initial solution value : 1505
+Final solution: 2730
+Total weight: 2000
+Total taste: 2730
+Status : Max iterations reached
+Time taken: 20 minutes and 24 seconds.
+
+test2:
+
+Initial solution value : 1505
+Final solution: 2730
+Total weight: 2000
+Total taste: 2720
+Status : Max iterations reached
+Time taken: 19 minutes and 43 seconds.
+
+test3:
+
+Initial solution value : 1505
+Final solution: 2730
+Total weight: 2000
+Total taste: 2710
+Status : Max iterations reached
+Time taken: 20 minutes and 43 seconds.
+
+test4:
+
+Initial solution value : 1505
+Final solution: 2730
+Total weight: 2000
+Total taste: 2730
+Status : Max iterations reached
+Time taken: 21 minutes and 14 seconds.
+
+test5:
+
+Initial solution value : 1505
+Final solution: 2730
+Total weight: 2000
+Total taste: 2710
+Status : Max iterations reached
+Time taken: 19 minutes and 57 seconds.
+
+###############################################################################################
+INSTÂNCIA : ep05.dat
+------------------------------------------------
+Best solution value : 2629
+Average solution value : 2603.6
+Average time : 18min and 24 seconds
+------------------------------------------------
+test1:
+
+Initial solution value : 1342
+Final solution: 2600
+Total weight: 1999
+Status : Max iterations reached
+Time taken: 18min and 31 seconds
+
+test2:
+
+Initial solution value : 1342
+Final solution: 2580
+Total weight: 1999
+Status : Max iterations reached
+Time taken: 19min and 14 seconds
+
+test3:
+
+Initial solution value : 1342
+Final solution: 2629
+Total weight: 1999
+Status : Max iterations reached
+Time taken: 18min and 4 seconds
+
+test4:
+
+Initial solution value : 1342
+Final solution: 2629
+Total weight: 1999
+Status : Max iterations reached
+Time taken: 18min and 52 seconds
+
+test5:
+
+Initial solution value : 1342
+Final solution: 2580
+Total weight: 1999
+Status : Max iterations reached
+Time taken: 17min and 58 seconds
+
+
+##############################################################################################################################
+Iterated Local Search : 5000 iterations, 20 neighborhood size, 15 no-improvement threshold, 1000 max-no-improvement-iterations
+##############################################################################################################################
+INSTÂNCIA : ep06.dat
+------------------------------------------------
+Best solution value : 4640
+Average solution value : 4610.2
+Average time : 9min and 21 seconds
+------------------------------------------------
+
+test1:
+
+Initial solution value : 4534
+Final solution: 4577
+Total weight: 4000
+Status : No improvement instances limit reached
+Time taken: 8 min and 34 seconds
+
+test2:
+
+Initial solution value : 4534
+Final solution: 4617
+Total weight: 3997
+Status : No improvement instances limit reached
+Time taken: 9min and 34 seconds
+
+test3:
+ 
+Initial solution value : 4534
+Final solution value : 4640 
+Total weight: 4000
+Status : No improvement instances limit reached
+Time taken: 10 minutes and 1 seconds
+
+test4:
+
+Initial solution value : 4534
+Final solution: 4577
+Total weight: 4000
+Status : No improvement instances limit reached
+Time taken: 8min 54seg
+
+test5:
+
+Initial solution value : 4534
+Final solution: 4640
+Total weight: 4000
+Status : No improvement instances limit reached
+Time taken: 10min and 4sec
+
+
+###############################################################################################
+INSTÂNCIA : ep07.dat
+------------------------------------------------
+Best solution value : 4410
+Average solution value : 4398
+Average time : 12min and 52 seconds
+------------------------------------------------
+
+test1:
+
+Initial solution value : 2334
+Final solution: 4390
+Total weight: 4000
+Status : No improvement instances limit reached
+Time taken: 12min and 54 seconds
+
+test2:
+
+Initial solution value : 2334
+Final solution value : 4410
+Total weight: 4000
+Status : No improvement instances limit reached
+Time taken: 13 minutes and 41 seconds
+
+
+test3:
+
+Initial solution value : 2334
+Final solution: 4410
+Total weight: 4000
+Status : No improvement instances limit reached
+Time taken: 12min and 14 seconds
+
+test4:
+
+Initial solution value : 2334
+Final solution: 4370
+Total weight: 1999
+Status : No improvement instances limit reached
+Time taken: 12min and 26 seconds
+
+test5:
+
+Initial solution value : 2334
+Final solution: 4410
+Total weight: 4000
+Status : No improvement instances limit reached
+Time taken: 13min and 4 seconds
+
+
+###############################################################################################
+INSTÂNCIA : ep08.dat
+------------------------------------------------
+Best solution value : 5010
+Average solution value : 4070
+Average time : 39min and 31 seconds
+------------------------------------------------
+test1:
+
+Initial solution value : 4916
+Final solution value : 5010
+Total weight: 4000
+Status : No improvement instances limit reached
+Time taken: 40 minutes and 27 seconds.
+
+test2:
+
+Initial solution value : 4916
+Final solution: 4940
+Total weight: 4000
+Status : No improvement instances limit reached
+Time taken: 38min and 34 seconds
+
+test3:
+
+Initial solution value : 4916
+Final solution: 4920
+Total weight: 4000
+Status : No improvement instances limit reached
+Time taken: 40min and 26 seconds
+
+test4:
+
+Initial solution value : 4916
+Final solution: 4970
+Total weight: 4000
+Status : No improvement instances limit reached
+Time taken: 39min and 26 seconds
+
+test5:
+
+Initial solution value : 4916
+Final solution: 5010
+Total weight: 4000
+Status : No improvement instances limit reached
+Time taken: 41min and 4 seconds
+
+###############################################################################################
+INSTÂNCIA : ep09.dat
+------------------------------------------------
+Best solution value : 4548
+Average solution value : 4513
+Average time : 29min and 18 seconds
+------------------------------------------------
+
+test1:
+
+Initial solution value : 3634
+Final solution: 4520
+Total weight: 3998
+Status : No improvement instances limit reached
+Time taken: 30min and 37 seconds
+
+test2:
+
+Initial solution value : 3634
+Final solution: 4499
+Total weight: 3999
+Status : No improvement instances limit reached
+Time taken: 26 min and 14seg
+
+test3:
+
+Initial solution value : 3634
+Final solution value : 4548
+Total weight: 3998
+Status : No improvement instances limit reached
+Time taken: 28 minutes and 3 seconds.
+
+test4.dat
+
+Initial solution value : 3634
+Final solution: 4499
+Total weight: 3999
+Status : No improvement instances limit reached
+Time taken: 31min 23seg
+
+test5.dat
+
+Initial solution value : 3634
+Final solution: 4499
+Total weight: 3999
+Status : No improvement instances limit reached
+Time taken: 30min 12seg
+
+
+###############################################################################################
+INSTÂNCIA : ep10.dat
+------------------------------------------------
+Best solution value : 4360
+Average solution value : 4345.8
+Average time : 16min and 28 seconds
+------------------------------------------------
+
+test1: 
+
+Initial solution value : 1855
+Final solution value : 4360
+Total weight: 4000
+Status : No improvement instances limit reached
+Time taken: 13 minutes and 8 seconds.
+
+test2:
+
+Initial solution value : 1855
+Final solution value : 4348
+Total weight: 3998
+Status : No improvement instances limit reached
+Time taken: 12 minutes and 28 seconds.
+
+test3:
+
+Initial solution value : 1855
+Final solution value : 4343
+Total weight: 3993
+Status : No improvement instances limit reached
+Time taken: 25 minutes and 49 seconds.
+
+
+test4:
+
+Initial solution value : 1855
+Final solution value : 4348
+Total weight: 3998
+Status : No improvement instances limit reached
+Time taken: 15 minutes and 8 seconds.
+
+
+test5:
+
+Initial solution value : 1855
+Final solution value : 4330
+Total weight: 3998
+Status : No improvement instances limit reached
+Time taken: 13 minutes and 56 seconds.
+
+
